@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "emerald_axe",
+    "customModelName": "Normal",
+    "name": "Emerald Axe",
+    "creativeTab": {
+      "value": "CUSTOM:XevaltansWorld"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 8.5,
+    "attackSpeed": 4.1,
+    "enchantability": 5,
+    "damageVsEntity": 4.0,
+    "usageCount": 850,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:DragoniteFlowerPower"
+      }
+    ],
+    "onEntityHitWith": {
+      "name": "EmeraldAxeMobIsHitWithTool"
+    }
+  }
+}

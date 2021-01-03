@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "griffes_dacier_venimeuses",
+    "customModelName": "Normal",
+    "name": "Griffes D'acier Venimeuses",
+    "creativeTab": {
+      "value": "CUSTOM:XevaltansWorld"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 4.5,
+    "attackSpeed": 4.0,
+    "enchantability": 5,
+    "damageVsEntity": 7.0,
+    "usageCount": 762,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "onEntityHitWith": {
+      "name": "GriffeDAcierVenimeuxMobIsHitWithTool"
+    }
+  }
+}

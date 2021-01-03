@@ -1,0 +1,433 @@
+{
+  "id_map": {
+    "GUI": 1
+  },
+  "mod_elements": [
+    {
+      "name": "XevaltansWorld",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiecedeSapic",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GriffeDAcier",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MineraideSapic",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CraftGriffeDAcier",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CraftIronWithGriffeDAcier",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiecedeSapicImpure",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SmeltSapicOre",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CraftSapicPiece",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RtpCommandExecuted",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rtp",
+      "type": "command",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Griffedor",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GriffeDAcierVenimeuxMobIsHitWithTool",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GriffeDAcierVenimeux",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GriffedeDiamant",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SapicT2",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sapict3",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SapicT4",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SapicT5",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cs1",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cs2",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cs31",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cs4",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cs5",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cs51",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DragoniteFlower",
+      "type": "plant",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DragoniteFlowerPower",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dragonite",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DragoniteArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DragoniteArmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DragoniteArmorLeggingsTickEvent",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DragoniteArmorBootsTickEvent",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DragoniteArmor",
+      "type": "armor",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EmeraldAxe",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldAxeMobIsHitWithTool",
+      "type": "procedure",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SmeltDragoniteFlower",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.dragoniteflowerpower.name": "Dragonite Flower Power",
+      "item.dragonitearmorlegs.name": "Dragonite Armor Leggings",
+      "item.piecedesapic.name": "Sapic T1",
+      "item.griffedacier.name": "Steel Paws",
+      "itemGroup.tabxevaltansworld": "Xevaltan\u0027s World",
+      "item.xevaltansworld.griffedacier": "Steel Paws",
+      "item.dragonitearmorbody.name": "Dragonite Armor Body",
+      "item.sapict4.name": "Sapic T4",
+      "block.xevaltansworld.blockdesapic": "Sapic Block",
+      "tile.mineraidesapic.name": "Sapic Ore",
+      "item.dragonite.name": "Dragonite",
+      "item.dragonitearmorboots.name": "Dragonite Armor Boots",
+      "item.xevaltansworld.piecedesapic": "Piece of Sapic",
+      "item.sapict2.name": "Sapic T2",
+      "item.dragonitearmorhelmet.name": "Dragonite Armor Helmet",
+      "item.piecedesapicimpure.name": "Piece of broken Sapic",
+      "item.sapict3.name": "Sapic T3",
+      "item.griffedediamant.name": "Diamond Paws",
+      "item.sapict5.name": "Sapic T5",
+      "item.griffedor.name": "Golden Paws",
+      "item.griffedaciervenimeux.name": "Poisonous Steel Paws",
+      "tile.dragoniteflower.name": "Dragonite Flower",
+      "item.emeraldaxe.name": "Emerald Axe"
+    },
+    "fr_fr": {
+      "item.dragoniteflowerpower.name": "Dragonite Flower Power",
+      "item.dragonitearmorlegs.name": "Dragonite Armor Leggings",
+      "item.griffedacier.name": "Griffes D\u0027acier",
+      "item.piecedesapic.name": "Sapic T1",
+      "itemGroup.tabxevaltansworld": "Xevaltans World",
+      "item.xevaltansworld.griffedacier": "Griffe D\u0027Acier",
+      "item.dragonitearmorbody.name": "Dragonite Armor Body",
+      "item.sapict4.name": "Sapic T4",
+      "block.xevaltansworld.blockdesapic": "Block de Sapic",
+      "tile.mineraidesapic.name": "Minerai de Sapic",
+      "item.dragonite.name": "Dragonite",
+      "item.dragonitearmorboots.name": "Dragonite Armor Boots",
+      "item.xevaltansworld.piecedesapic": "Pièce de Sapic",
+      "item.sapict2.name": "Sapic T2",
+      "item.dragonitearmorhelmet.name": "Dragonite Armor Helmet",
+      "item.piecedesapicimpure.name": "Pièce de Sapic cassée",
+      "item.sapict3.name": "Sapic T3",
+      "item.griffedediamant.name": "Griffes de diamant",
+      "item.sapict5.name": "Sapic T5",
+      "item.griffedor.name": "Griffes D\u0027or",
+      "item.griffedaciervenimeux.name": "Griffes D\u0027acier Venimeuses",
+      "tile.dragoniteflower.name": "Dragonite Flower",
+      "item.emeraldaxe.name": "Emerald Axe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "xevaltansworld",
+    "modName": "Xevaltan\u0027sWorld",
+    "version": "1.0.0",
+    "author": "noebo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.xevaltansworld",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

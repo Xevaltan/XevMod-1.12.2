@@ -1,0 +1,63 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "ragonite_rmor_head",
+    "enableBody": true,
+    "textureBody": "ragonite_rmor_body",
+    "enableLeggings": true,
+    "textureLeggings": "ragonite_rmor_leggings",
+    "enableBoots": true,
+    "textureBoots": "ragonite_rmor_boots",
+    "onHelmetTick": {
+      "name": "DragoniteArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "DragoniteArmorBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "DragoniteArmorLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "DragoniteArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:XevaltansWorld"
+    },
+    "armorTextureFile": "ragonite_rmor",
+    "helmetName": "Dragonite Armor Helmet",
+    "bodyName": "Dragonite Armor Body",
+    "leggingsName": "Dragonite Armor Leggings",
+    "bootsName": "Dragonite Armor Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 41,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 10,
+    "toughness": 1.5,
+    "equipSound": {
+      "value": "block.anvil.fall"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Dragonite"
+      }
+    ]
+  }
+}

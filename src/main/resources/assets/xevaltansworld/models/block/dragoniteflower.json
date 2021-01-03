@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xevaltansworld:blocks/dragonite_flower",
+    "particle": "xevaltansworld:blocks/dragonite_flower"
+  }
+}

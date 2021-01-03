@@ -1,0 +1,39 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "dragonite_flower",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Beach",
+    "growapableMaxHeight": 3,
+    "name": "Dragonite Flower",
+    "creativeTab": {
+      "value": "CUSTOM:XevaltansWorld"
+    },
+    "hardness": 1.0,
+    "resistance": 10.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 2,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

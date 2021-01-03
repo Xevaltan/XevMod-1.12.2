@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xevaltansworld:blocks/stone_1.12",
+    "up": "xevaltansworld:blocks/stone_1.12",
+    "north": "xevaltansworld:blocks/stone_1.12",
+    "east": "xevaltansworld:blocks/stone_1.12",
+    "south": "xevaltansworld:blocks/stone_1.12",
+    "west": "xevaltansworld:blocks/stone_1.12",
+    "particle": "xevaltansworld:blocks/stone_1.12"
+  }
+}

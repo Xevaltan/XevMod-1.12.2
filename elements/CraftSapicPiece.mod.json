@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PiecedeSapicImpure"
+      },
+      {
+        "value": "CUSTOM:PiecedeSapicImpure"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PiecedeSapicImpure"
+      },
+      {
+        "value": "CUSTOM:PiecedeSapicImpure"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PiecedeSapic"
+    },
+    "name": "craftsapicpiece",
+    "namespace": "mod"
+  }
+}

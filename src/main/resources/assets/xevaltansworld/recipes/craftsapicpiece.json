@@ -1,0 +1,22 @@
+{
+  "group": "xevaltansworld",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xevaltansworld:piecedesapicimpure"
+    },
+    {
+      "item": "xevaltansworld:piecedesapicimpure"
+    },
+    {
+      "item": "xevaltansworld:piecedesapicimpure"
+    },
+    {
+      "item": "xevaltansworld:piecedesapicimpure"
+    }
+  ],
+  "result": {
+    "item": "xevaltansworld:piecedesapic",
+    "count": 2
+  }
+}
